@@ -7,6 +7,7 @@ public class Task_11 {
                 System.out.print("8");
             }
             System.out.print("\n");
+
         }
     }
 }
