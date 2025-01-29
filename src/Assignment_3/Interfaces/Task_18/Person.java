@@ -24,8 +24,6 @@ public class Person implements RepkaItem {
     public void setNamePadezh(String namePadezh) {
         this.namePadezh = namePadezh;
     }
-
-    // Implement the pull method
     public void pull(Person person) {
         System.out.println(this.name + " for " + person.getNamePadezh());
     }
